@@ -1,0 +1,15 @@
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\bin\Debug\net7.0\Lab5_Example_Monitor.exe
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\bin\Debug\net7.0\Lab5_Example_Monitor.deps.json
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\bin\Debug\net7.0\Lab5_Example_Monitor.runtimeconfig.json
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\bin\Debug\net7.0\Lab5_Example_Monitor.dll
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\bin\Debug\net7.0\Lab5_Example_Monitor.pdb
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\Lab5_Example_Monitor.csproj.AssemblyReference.cache
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\Lab5_Example_Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\Lab5_Example_Monitor.AssemblyInfoInputs.cache
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\Lab5_Example_Monitor.AssemblyInfo.cs
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\Lab5_Example_Monitor.csproj.CoreCompileInputs.cache
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\Lab5_Example_Monitor.dll
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\refint\Lab5_Example_Monitor.dll
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\Lab5_Example_Monitor.pdb
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\Lab5_Example_Monitor.genruntimeconfig.cache
+C:\К19-2\4 курс\2 семестр\Теорія розподілених систем та паралельних обчислень\Виконані завдання\Практична робота №5\Lab5_Example_Monitor\obj\Debug\net7.0\ref\Lab5_Example_Monitor.dll
